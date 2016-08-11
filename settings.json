@@ -1,0 +1,28 @@
+{
+    "comparisonYears": 30,
+    "loanAmount": 320000,
+    "investments": [
+            {
+                "rate": 5
+            },
+            {
+                "rate": 8
+            }
+        ],
+    "loans": [
+            {
+                "term": 30,
+                "rate": 3.3
+            },
+            {
+                "term": 15,
+                "rate": 2.6
+            },
+            {
+                "term": 10,
+                "rate": 2.4
+            }
+        ],
+    "marginalTaxRate": 28,
+    "includePrincipalAsDebt": true
+}
